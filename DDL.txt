@@ -1,1 +1,3 @@
 Create database pelatihanrsmh;
+
+create table data_pegawai;
